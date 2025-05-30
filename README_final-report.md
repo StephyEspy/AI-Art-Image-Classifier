@@ -39,11 +39,11 @@ Each image was resized to **224x224 pixels**, normalized, and assigned binary la
 
 > To address **class imbalance**, we applied augmentation (rotation, flipping, zoom) to human-made images.
 
-![Figure 1.1: Human-made Arts](figures/Figure%201.1%20Human-made%20Arts.png)
+![Figure 1.1: Human-made Arts](../figures/Figure%201.1%20Human-made%20Arts.png)
 
-![Figure 1.2: AI Generated Arts](figures/Figure%201.2%20AI%20Generated%20Arts.png)
+![Figure 1.2: AI Generated Arts](../figures/Figure%201.2%20AI%20Generated%20Arts.png)
 
-![Figure 2: Data Augmented Images](figures/Figure%202%20Data%20Augmented%20Images.png)
+![Figure 2: Data Augmented Images](../figures/Figure%202%20Data%20Augmented%20Images.png)
 
 ---
 
@@ -63,7 +63,7 @@ Training included:
 
 We fine-tuned the last 10 layers of ResNet-50 with a lower learning rate to specialize it for our task.
 
-![Figure 3: ResNet Model Architecture](figures/Figure%203%20ResNet%20Model%20Architecture.png)
+![Figure 3: ResNet Model Architecture](../figures/Figure%203%20ResNet%20Model%20Architecture.png)
 
 ---
 
@@ -76,9 +76,9 @@ We fine-tuned the last 10 layers of ResNet-50 with a lower learning rate to spec
 - ResNet-50: ~**90% validation accuracy**
 - EfficientNet: ~**57% validation accuracy**
 
-![Figure 4: ResNet-50 Accuracy](figures/Figure%204%20ResNet-50%20Model%20Train%20and%20Validation%20Accuracy%20Plots.png)
+![Figure 4: ResNet-50 Accuracy](../figures/Figure%204%20ResNet-50%20Model%20Train%20and%20Validation%20Accuracy%20Plots.png)
 
-![Figure 5: EfficientNet Accuracy](figures/Figure%205%20EfficientNet%20Model%20Train%20and%20Accuracy%20Plots.png)
+![Figure 5: EfficientNet Accuracy](../figures/Figure%205%20EfficientNet%20Model%20Train%20and%20Accuracy%20Plots.png)
 
 ### Confusion Matrix (ResNet-50)
 
@@ -88,7 +88,7 @@ Out of **30,000 test samples**:
 
 Overall accuracy: **~87.8%**
 
-![Figure 6: Confusion Matrix](figures/Figure%206%20Confusion%20Matrix.png)
+![Figure 6: Confusion Matrix](../figures/Figure%206%20Confusion%20Matrix.png)
 
 ---
 
@@ -126,6 +126,3 @@ The project also raises important ethical questions about authorship, originalit
 | **Stephanie Espinoza Gutierrez** | Organized final report content and slide visuals                                  |
 
 ---
-
-## 📁 Repo Structure Suggestion
-
