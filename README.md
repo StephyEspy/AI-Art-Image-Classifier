@@ -111,18 +111,3 @@ With ~90% accuracy, this tool can help artists, collectors, and platforms detect
 The project also raises important ethical questions about authorship, originality, and the future of art in the AI era.
 
 ---
-
-## 🧩 7. Contribution Breakdown
-
-| Member             | Contributions                                                                 |
-|--------------------|--------------------------------------------------------------------------------|
-| Kaitlyn Vo         | Data loading, experimentation                                                 |
-| Gyeongseob B. Lee  | EfficientNet training and validation                                           |
-| Aaryan Mohta       | Classifier training and parameter tuning                                      |
-| Lana Wong          | Introduction & result write-up                                                |
-| Junhee Lee         | Methodology documentation                                                     |
-| Angela Lee         | Report background and discussion                                              |
-| Jess Fong          | Presentation slide deck                                                       |
-| **Stephanie Espinoza Gutierrez** | Organized final report content and slide visuals                                  |
-
----
